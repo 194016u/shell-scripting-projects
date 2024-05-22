@@ -2,11 +2,11 @@
 # GitHub API URL
 API_URL="https://api.github.com"
 
-# GitHub username and personal access token
-USERNAME=$username
+# GitHub username and personal access token enter user
+USERNAME=$username 
 TOKEN=$token
 
-# User and Repository information
+# User and Repository information enter user
 REPO_OWNER=$1
 REPO_NAME=$2
 
