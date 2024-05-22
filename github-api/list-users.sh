@@ -4,6 +4,7 @@
 # About  : get list of user in git org
 # Input  : Username , Token , Repo Owner , Repo name
 # Author : Virnaga Bandara
+# Owner  : Using this in organization
 #####################    
 
 #if u not entered youser input not execute
