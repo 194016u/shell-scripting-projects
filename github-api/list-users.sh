@@ -1,7 +1,14 @@
 #!/bin/bash
 
+#####################
+# About  : get list of user in git org
+# Input  : Username , Token , Repo Owner , Repo name
+# Author : Virnaga Bandara
+#####################    
+
 #if u not entered youser input not execute
 helper()
+
 # GitHub API URL
 API_URL="https://api.github.com"
 
